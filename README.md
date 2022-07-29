@@ -22,9 +22,11 @@ By V.isualizing the summary we can tell that there are a lot key findings includ
  - suburban cities have 6x + drivers than rural with almost 4.5x the revenue.
  - rural cities have the highest average  fare per ride and driver.
  - the relationship in which fare revenue is higher by city type when there are a larger ratio of drivers to rides.
-
-# Summary:
  
-  According to the analysis my  business recommendations to the Pyber(CEO) to address disparities among the city types are; increasing the amount of drivers in rural areas to ensure there are enough drivers to meet ride demand. Data for rural cities shows that the average fare per driver is much higher than suburban and urban cities,so rural area based riders are taking trips over a longer distance. This could result in majority of drivers bing occupied with current trips and loss in potential revenue when there are peaks in business.
+ - By Using the object-oriented interface method, i plot the resample DataFrame using the df.plot() function.
+ ![totalFare](https://user-images.githubusercontent.com/77947860/181828614-48446dc9-be63-4e0a-8bcf-a4e49dfff400.png)
+ 
+ # Summary:
+ According to the analysis my  business recommendations to the Pyber(CEO) to address disparities among the city types are; increasing the amount of drivers in rural areas to ensure there are enough drivers to meet ride demand. Data for rural cities shows that the average fare per driver is much higher than suburban and urban cities,so rural area based riders are taking trips over a longer distance. This could result in majority of drivers bing occupied with current trips and loss in potential revenue when there are peaks in business.
 
 
